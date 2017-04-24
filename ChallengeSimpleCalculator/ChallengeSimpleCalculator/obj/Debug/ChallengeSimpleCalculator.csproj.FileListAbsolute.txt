@@ -1,0 +1,66 @@
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.csprojResolveAssemblyReference.cache
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ApplicationInsights.config
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\csc.exe
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\vbc.exe
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\VBCSCompiler.exe
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.dll.config
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.dll
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.pdb
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.Web.dll
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.ApplicationInsights.dll
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.Web.xml
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.ApplicationInsights.xml
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.dll
+c:\users\jun\documents\visual studio 2015\Projects\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.pdb
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ApplicationInsights.config
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\csc.exe
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\vbc.exe
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\VBCSCompiler.exe
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.dll.config
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.dll
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\ChallengeSimpleCalculator.pdb
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.Web.dll
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.Web.xml
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.csprojResolveAssemblyReference.cache
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.dll
+C:\Users\jun\Desktop\Tech\C#\ChallengeSimpleCalculator\ChallengeSimpleCalculator\obj\Debug\ChallengeSimpleCalculator.pdb
